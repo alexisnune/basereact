@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/basereact/static/css/main.33b39518.css",
+    "main.js": "/basereact/static/js/main.eb01159e.js",
+    "static/js/453.2accbebf.chunk.js": "/basereact/static/js/453.2accbebf.chunk.js",
+    "index.html": "/basereact/index.html",
+    "main.33b39518.css.map": "/basereact/static/css/main.33b39518.css.map",
+    "main.eb01159e.js.map": "/basereact/static/js/main.eb01159e.js.map",
+    "453.2accbebf.chunk.js.map": "/basereact/static/js/453.2accbebf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33b39518.css",
+    "static/js/main.eb01159e.js"
+  ]
+}
